@@ -17,7 +17,11 @@ public class Arts extends Education {
 	
 	@Override
 	public void ug() {
+<<<<<<< HEAD
 		System.out.println("Max point is 85");
+=======
+		System.out.println("Max ug is 85");
+>>>>>>> 896b4c4a93f144995b6288c2e448935305a42c67
 	}
 	
 	@Override
