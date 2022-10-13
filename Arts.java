@@ -17,12 +17,12 @@ public class Arts extends Education {
 	
 	@Override
 	public void ug() {
-		System.out.println("Max strength is 85");
+		System.out.println("Max ug is 85");
 	}
 	
 	@Override
 	public void pg() {
-		System.out.println("Max strength is 90");
+		System.out.println("Max pg is 90");
 	}
 public static void main(String[] args) {
 	Arts a=new Arts();
