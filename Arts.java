@@ -3,16 +3,16 @@ package org.edu;
 public class Arts extends Education {
 	
 	public void bSc() {
-		System.out.println("Max strength is 65");
+		System.out.println("Max bsc is 65");
 	}
 	public void bEd() {
-		System.out.println("Max strength is 70");
+		System.out.println("Max bed is 70");
 	}
 	public void bA() {
-		System.out.println("Max strength is 75");
+		System.out.println("Max ba is 75");
 	}
 	public void bBa() {
-		System.out.println("Max strength is 80");
+		System.out.println("Max bba is 80");
 	}
 	
 	@Override
